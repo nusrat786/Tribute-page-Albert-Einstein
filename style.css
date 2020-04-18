@@ -1,0 +1,44 @@
+body{
+	background: #d1e0e0;
+	
+	
+}
+
+.container{
+	max-width: 1366px;
+	margin: 0px auto;
+	text-align: center;
+	
+}
+.container ul li{
+	text-align: left;
+}
+.container .duration{
+	margin-top: 0px;
+}
+h1{
+	color: #1a75ff;
+}
+
+h2{
+	color: #009933;
+}
+
+.para{
+	color: #b31aff;
+	text-align: left;
+	font-size: 20px;
+}
+
+footer{
+	text-align: left;
+	padding-left: 10px;
+}
+.imp{
+	text-align: left;
+	font-weight: 100;
+	font-size: 25px;
+	font-style: bold;
+	padding-left: 10px;
+}
+
